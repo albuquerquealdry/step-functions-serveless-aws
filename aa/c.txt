@@ -1,0 +1,1 @@
+Este é o conteúdo do arquivo c.txt
